@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: KPRAVEEN
+Build-Jdk: 1.8.0_65
+Class-Path: log4j-core-2.8.2.jar log4j-api-2.8.2.jar jsch-0.1.54.jar
+Main-Class: com.kpraveen.FileTransferServer.App
+Created-By: Maven Integration for Eclipse
+
